@@ -1,4 +1,4 @@
-Color code: #003399
+# Color code: #003399
 # Thutorial: https://www.geeksforgeeks.org/python-build-a-rest-api-using-flask/
 
 # Using flask to make an api
@@ -44,4 +44,3 @@ def disp(num):
 if __name__ == '__main__':
 
 	app.run(debug = True)
-This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Grant Agreement No. 101074040
